@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python distill_dc.py --dataset=imagenet-birds --ipc=1 --data_path=/raid/local/cvml_user/jyj/dataset/ILSVRC2012/imagenet1k/ILSVRC/Data/CLS-LOC/ --eval_it=500
